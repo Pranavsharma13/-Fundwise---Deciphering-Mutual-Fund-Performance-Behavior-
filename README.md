@@ -158,4 +158,4 @@ Mutual fund investment decisions require data-driven insights. This project seek
 🔗 **Project Repository**: [GitHub Link](https://github.com/user/FundWise)
 
 ---
-💬 *"Errors using inadequate data are much less than those using no data at all. - Charles Babbage"* 💬
+💬 *"Errors using inadequate data are much less than those using no data at all." - Charles Babbage* 
